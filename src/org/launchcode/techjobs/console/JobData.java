@@ -61,7 +61,7 @@ public class JobData {
 
         ArrayList<HashMap<String, String>> jobs = new ArrayList<>();
 
-        System.out.println("Search Term endered: " + searchterm);
+        System.out.println("Search Term entered: " + searchterm);
 
         for (HashMap<String, String> row : allJobs) {
 
